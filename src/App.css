@@ -1,0 +1,10 @@
+.App {
+      display: inline-block;
+      text-align: center;
+      width: 700px;
+      height: 500px;
+      background-color: brown;
+      border-radius: 10px;
+      margin-left: 300px;
+      margin-top: 60px;
+}
